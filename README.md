@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,50:001a4d,100:0066cc&text=Gabriel%20Eduardo%20dos%20Santos%20Fonseca&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20IA%20Engineer&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=4DA3FF&center=true&vCenter=true&width=900&lines=Construindo+solu%C3%A7%C3%B5es+backend+robustas;Engenharia+de+IA+com+foco+em+agentes+e+RAG;Java+%7C+Spring+Boot+%7C+Python+%7C+Node.js+%7C+Angular" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=4DA3FF&center=true&vCenter=true&width=900&lines=Construindo+solu%C3%A7%C3%B5es+backend;Engenharia+de+IA+com+foco+em+agentes;Java+%7C+Spring+Boot+%7C+Python+%7C+Node.js+%7C+Angular" alt="Typing animation" />
 
 </div>
 
@@ -78,29 +78,20 @@ Desenvolvedor com foco em **back-end** e atuação como **IA Engineer**.
 ## GitHub Insights
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielFonseca508&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFonseca508&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielFonseca508&theme=github_dark" alt="Resumo do perfil no GitHub" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GabrielFonseca508&theme=tokyonight&hide_border=true&background=00000000" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFonseca508&bg_color=000000&color=4da3ff&line=4da3ff&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielFonseca508&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://streak-stats.demolab.com?user=GabrielFonseca508&theme=tokyonight&hide_border=true&background=00000000" alt="Sequência de contribuições no GitHub" />
 </div>
 
 ---
 
-## Snake Contribution
+## Foco atual
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GabrielFonseca508/GabrielFonseca508/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution" />
-</div>
+- Construção de aplicações backend escaláveis com **Java, Spring Boot e Python**
+- Desenvolvimento de agentes de IA com **LangGraph, RAG e bancos vetoriais**
+- Boas práticas de **arquitetura, testes automatizados, observabilidade e segurança**
 
 ---
 
